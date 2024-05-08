@@ -1,4 +1,4 @@
-**Face Mask Detection Project**
+<h1>Face Mask Detection Project</h1>
 
 This project implements a face mask detection model using deep learning techniques. The model is trained to classify images as containing a person with a mask or without a mask.
 
