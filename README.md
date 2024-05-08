@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Currency Detection Model</title>
-</head>
+
 <body>
     <h1>Currency Detection Model</h1>
     <p>This repository contains code for a currency detection model built using TensorFlow and CNNs. The model aims to identify different currencies from input images accurately.</p>
